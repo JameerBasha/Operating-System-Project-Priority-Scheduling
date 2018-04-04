@@ -1,0 +1,6 @@
+Question Given: 12
+	The traditional UNIX scheduler enforces an inverse relationship between priority numbers and priorities: the higher the number, the lower the priority. The scheduler recalculates process priorities once per second using the following function:
+	Priority=(recent CPU usage/2)+base
+	where base=60 and recent CPU usage refer to value indicating how often a process has used the CPU
+	refers to a value indicating how often a process has used the CPU since priorities were last calculated
+	
