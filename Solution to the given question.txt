@@ -1,0 +1,5 @@
+Solution:
+The priorities assigned to the processes are 80,69,65 
+respectively.
+The scheduler lowers the relative priority of CPU-bound
+processes.

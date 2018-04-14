@@ -3,4 +3,7 @@ Question Given: 12
 	Priority=(recent CPU usage/2)+base
 	where base=60 and recent CPU usage refer to value indicating how often a process has used the CPU
 	refers to a value indicating how often a process has used the CPU since priorities were last calculated
+Assume that recent CPU usage is 40 for process P1, 18 for process P2, and 10 for process P3. What will be the new priorities for these three processes when priorities are recalculated? Based on this information, does the traditional UNIX scheduler raise or lower the relative priority ofa CPU-bound process?
+
+
 	
