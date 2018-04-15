@@ -3,3 +3,5 @@ The priorities assigned to the processes are 80,69,65
 respectively.
 The scheduler lowers the relative priority of CPU-bound
 processes.
+The solution of the problem using programming is given in the file named
+Priority Scheduling
